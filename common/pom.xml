@@ -11,7 +11,7 @@
 
     <artifactId>common</artifactId>
     <packaging>pom</packaging>
-    <description>公共模块,为其他模块提供服务</description>
+    <description>公共模块,给其他模块提供服务</description>
     <modules>
         <module>common_utils</module>
         <module>service_base</module>
