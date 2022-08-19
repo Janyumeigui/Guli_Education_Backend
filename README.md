@@ -7,3 +7,5 @@
 Guli_Education_Backend为后端代码:https://github.com/Janyumeigui/Guli_Education_Backend
 
 Guli_Education_Frontend_Admin为后台代码:https://github.com/Janyumeigui/Guli_Education_Frontend_Admin
+
+Guli_Education_Frontend_Student为前台代码https://github.com/Janyumeigui/Guli_Education_Frontend_Student
