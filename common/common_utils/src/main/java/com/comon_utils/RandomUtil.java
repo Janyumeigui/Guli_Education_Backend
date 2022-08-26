@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Random;
 
 /**
- * 随机数生成器
+ * 随机数验证码生成器
  */
 public class RandomUtil {
     private static final DecimalFormat codeFormat = new DecimalFormat("000000");
